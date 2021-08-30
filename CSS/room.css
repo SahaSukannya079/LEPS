@@ -1,0 +1,172 @@
+*{
+	 box-sizing:border-box;
+	}
+	
+	body{
+	margin : 0px;
+    padding : 0px;
+	}
+	 .navbar{
+		height:98px;
+		z-index:1;
+	}
+    .bc1{
+		transform:translate(5px,0px);
+	}
+	.nav-item{
+	 margin-left:25px;
+	 
+	 
+	}
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	 
+	}
+	 .div1{
+	  position:relative;
+	  margin:0 auto;
+	
+	}
+    
+	.bc{
+	   width: 100%;
+       max-width:1200px;
+       height: auto;
+	   max-height: 500px;
+	   margin-left:70px;
+	   margin-top:20px;
+	}
+	
+	 <!-- write -->
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+	
+     
+     }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+	 
+	 
+     }
+
+    /* Next & previous buttons */
+  .prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  top:775px;
+  padding: 16px;
+  color:#ff9900;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 10px;
+  border-radius: 3px 0 0 3px;
+}
+  
+  .prev {
+  position: absolute;
+  left: 10px;
+  border-radius: 3px 0 0 3px;
+  color:#ff9900;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.1);
+  color: white;
+}
+
+
+  .dot-container {
+  text-align: center;
+  padding: 20px;
+  
+  }
+
+
+  .dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color:#ff9900;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+  }
+
+
+   .dot.active, .dot:hover {
+     background-color:#cc3300;
+   }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+
+	 
+	<!-- footer -->
+	  .footer{
+		transform:translateY(-20px);
+	}
+	
+	.social-icons{
+	 /*width:80px;*/
+	 /*transition:0.5s;*/
+	 margin-left:530px;
+	 z-index:1;
+	 position:relative;
+	 top:70px;
+	 
+	 
+	}
+	
+	.social-icons a:hover img{
+	 transform:translateY(-10px);
+	}
+	
+	
+	/*Newly Added CSS */
+	.footer_image{
+		width:100%;
+		height:400px;
+		transform:translateY(-75px);
+		position:absolute;
+		
+	}
+	
+	.footer_text{
+	 margin-left:470px;
+	 top:150px;
+	 font-size:36px;
+	 font-weight:600;
+	 margin-bottom:90px;
+	 color:black;
+	 font-style:italic;
+	 margin-top:50px;
+	 position:relative;
+	 z-index:1;
+	}
+	
+	.footer_icon_image{
+		width:80px;
+	}
+	

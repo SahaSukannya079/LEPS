@@ -1,0 +1,2468 @@
+/*A. Media Query Starts For 1920Px width devices, for 1920 Px or lesser devices*/
+  @media(max-width:1920px){
+	body{
+		  overflow-x: hidden;
+	}
+    .navbar{
+		height:95px;
+		z-index:1;
+	}  
+	
+	.bc1{
+		transform:translate(3px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:35px;
+	}
+	
+	.nav-link{
+	 font-size:22px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	}
+    .bc{
+	  width:100%;
+	  max-width:1475px;
+      height: auto;
+	  max-height:600px;
+	 
+	}
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+	
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:80px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:100px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:530px;
+	 font-size:45px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,5px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:400px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:600px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(5px);
+	}
+	
+  }
+  
+  
+/*B. Media Query Starts For 1680Px width devices, for 1680 Px or lesser devices*/
+  @media(max-width:1680px){
+	body{
+		  overflow-x: hidden;
+	}
+  }
+
+/*C. Media Query Starts For 1600Px width devices, for 1600 Px or lesser devices*/
+  @media(max-width:1600px){
+	body{
+		  overflow-x: hidden;
+	}
+
+  }
+/*D. Media Query Starts For 1440Px width devices, for 1440 Px or lesser devices*/
+  @media(max-width:1440px){
+	body{
+		  overflow-x: hidden;
+	}
+  }
+  
+  
+/*E. Media Query Starts For 1440Px width devices, for 1440 Px or lesser devices*/
+  @media(max-width:1366px){
+	body{
+		  overflow-x: hidden;
+	}  
+	.navbar{
+		height:95px;
+		z-index:1;
+	}  
+	
+	.bc1{
+		transform:translate(3px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:25px;
+	}
+	
+	.nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	}
+	
+    .bc{
+	   width: 100%;
+       max-width:1200px;
+       height: auto;
+	   max-height: 500px;
+	   margin-left:70px;
+	   margin-top:20px;
+	}
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+	
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:80px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:80px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:500px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,5px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:400px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:550px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(5px);
+	}
+	
+  }
+  
+  
+/*E. Media Query Starts For 1200Px width devices, for 1200 Px or lesser devices*/
+  @media(max-width:1200px){
+	body{
+		  overflow-x: hidden;
+	}
+	.navbar{
+		height:95px;
+		z-index:1;
+	}  
+	
+	.bc1{
+		transform:translate(3px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:9px;
+	}
+	
+	.nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:1160px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:100px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:80px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:430px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:480px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+	
+/*F. Media Query Starts For 1080Px width devices, for 1080 Px or lesser devices*/
+  @media(max-width:1080px){
+	 body{
+		  overflow-x: hidden;
+	} 
+	.navbar{
+		height:95px;
+		z-index:1;
+	}  
+	
+	.bc1{
+		transform:translate(3px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:2px;
+	}
+	
+	.nav-link{
+	 font-size:18px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:1040px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:100px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:80px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:370px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:420px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*G. Media Query Starts For 1024Px width devices, for 1024 Px or lesser devices*/
+  @media(max-width:1024px){
+	body{
+		  overflow-x: hidden;
+	} 
+    .navbar{
+		height:95px;
+		z-index:1;
+	}  
+	
+	.bc1{
+		transform:translate(3px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:2px;
+	}
+	
+	.nav-link{
+	 font-size:17px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	}
+	
+    .bc{
+	  width: 100%;
+      max-width:980px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:100px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:80px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:350px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:400px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+
+  
+/*H. Media Query Starts For 991Px width devices, for 991 Px or lesser devices*/
+  @media(max-width:991px){
+	 body{
+		  overflow-x: hidden;
+	}
+	.navbar{
+		height:95px;
+		z-index:1;
+	}  
+	
+	.bc1{
+		transform:translate(3px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:2px;
+	}
+	
+	.nav-link{
+	 font-size:16px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:950px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+	
+    .div1{
+	  position:relative;
+	}
+   
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:100px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:80px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:350px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:380px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*I. Media Query Starts For 800Px width devices, for 800 Px or lesser devices*/
+  @media(max-width:800px){
+	 body{
+		  overflow-x: hidden;
+	} 
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(300px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:2px;
+	}
+	
+    .nav-link{
+	 font-size:22px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:770px;
+		 height:90px;
+		 transform:translate(-145px,80px);
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:755px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:100px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:80px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:230px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:270px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*J. Media Query Starts For 768Px width devices, for 768 Px or lesser devices*/
+  @media(max-width:768px){
+	body{
+		  overflow-x: hidden;
+	} 
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(300px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:2px;
+	}
+	
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:740px;
+		 height:90px;
+		 transform:translate(-145px,80px);
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:725px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:100px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:80px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:230px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:270px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*K. Media Query Starts For 603Px width devices, for 603 Px or lesser devices*/
+  @media(max-width:603px){
+	 body{
+		  overflow-x: hidden;
+	} 
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(200px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:2px;
+	}
+	
+    .nav-link{
+	 font-size:16px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:580px;
+		 height:90px;
+		 transform:translate(-149px,80px);
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:560px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:150px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:70px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:140px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:185px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*L. Media Query Starts For 533Px width devices, for 533 Px or lesser devices*/
+  @media(max-width:533px){
+	 body{
+		  overflow-x: hidden;
+	}
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(30px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:65px;
+	}
+	
+    .nav-link{
+	 font-size:25px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:380px;
+		 height:370px;
+		 transform:translate(45px,0px);
+	}
+	
+	.navbar-toggler { 
+		transform:translate(-15px,0px);
+		
+	}
+    .navbar-toggler-icon{
+		font-size:20px;
+	}
+	
+    .bc{
+	  width: 100%;
+      max-width:490px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:180px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:70px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:130px;
+	 font-size:25px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:155px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*M. Media Query Starts For 480Px width devices, for 480 Px or lesser devices*/
+  @media(max-width:480px){
+	 body{
+		  overflow-x: hidden;
+	} 
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(0px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:65px;
+	}
+	
+    .nav-link{
+	 font-size:22px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:340px;
+		 height:340px;
+		 transform:translate(45px,0px);
+	}
+	
+	.navbar-toggler { 
+		transform:translate(-15px,0px);
+		
+	}
+    .navbar-toggler-icon{
+		font-size:20px;
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:440px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:180px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:60px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:110px;
+	 font-size:23px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:135px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*N. Media Query Starts For 414 Px width devices, for 414 Px or lesser devices*/
+  @media(max-width:414px){
+	 body{
+		  overflow-x: hidden;
+	}
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(0px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:45px;
+	}
+	
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:270px;
+		 height:340px;
+		 transform:translate(45px,0px);
+	}
+	
+	.navbar-toggler { 
+		transform:translate(-15px,0px);
+		
+	}
+    .navbar-toggler-icon{
+		font-size:20px;
+	}
+	
+    .bc{
+	  width: 100%;
+      max-width:370px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:250px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:50px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:85px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:115px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*O. Media Query Starts For 384Px width devices, for 384 Px or lesser devices*/
+  @media(max-width:384px){
+	 body{
+		  overflow-x: hidden;
+	} 
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(0px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:25px;
+	}
+	
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:240px;
+		 height:340px;
+		 transform:translate(45px,0px);
+	}
+	
+	.navbar-toggler { 
+		transform:translate(-15px,0px);
+		
+	}
+    .navbar-toggler-icon{
+		font-size:20px;
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:339px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:250px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:50px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:75px;
+	 font-size:20px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:100px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }
+  
+  
+/*P. Media Query Starts For 375Px width devices, for 375 Px or lesser devices*/
+  @media(max-width:375px){
+	body{
+		overflow-x : hidden;
+	} 
+	.navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(0px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:45px;
+	}
+	
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:260px;
+		 height:340px;
+		 transform:translate(25px,0px);
+	}
+	
+	.navbar-toggler { 
+		transform:translate(-15px,0px);
+		
+	}
+    .navbar-toggler-icon{
+		font-size:20px;
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:335px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+    .div1{
+	  position:relative;
+	}
+    
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:250px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:45px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:75px;
+	 font-size:20px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:105px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+  }
+  
+  
+/*Q. Media Query Starts For 360Px width devices, for 360 Px or lesser devices*/
+  @media(max-width:360px){
+	body{
+		overflow-x : hidden;
+	} 
+	 .navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(0px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:25px;
+	}
+	
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:230px;
+		 height:340px;
+		 transform:translate(45px,0px);
+	}
+	
+	.navbar-toggler { 
+		transform:translate(-15px,0px);
+		
+	}
+    .navbar-toggler-icon{
+		font-size:20px;
+	}
+	
+	.bc{
+	  width: 100%;
+      max-width:320px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+    .div1{
+	  position:relative;
+	}
+    
+	
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:250px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:40px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:65px;
+	 font-size:20px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:95px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+  }	
+  
+  
+/*R. Media Query Starts For 320Px width devices, for 320 Px or lesser devices*/
+  @media(max-width:320px){
+	body{
+		overflow-x : hidden;
+	} 
+    .navbar{
+		height:95px;
+		z-index:1;
+	}
+	
+    .bc1{
+		transform:translate(0px,0px);
+	}
+	
+	.nav-item{
+	 margin-left:25px;
+	}
+	
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 
+	}
+	
+	.navbar-nav{
+		 background-color: rgb(0,0,0); 
+         background-color: rgba(0,0,0,0.5); 
+		 width:220px;
+		 height:340px;
+		 transform:translate(25px,0px);
+	}
+	
+	.navbar-toggler { 
+		transform:translate(-15px,0px);
+		
+	}
+    .navbar-toggler-icon{
+		font-size:20px;
+	}
+	
+    .bc{
+	  width: 100%;
+      max-width:280px;
+      height: auto;
+	  max-height: 500px;
+	  margin:13px;
+	}
+	
+	
+    .div1{
+	  position:relative;
+	}
+   
+	 /* Slideshow container */
+    .slideshow-container {
+     position: relative;
+    }
+
+    /* Slides */
+    .mySlides {
+     display: none;
+     padding: 80px;
+     text-align: center;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+     cursor: pointer;
+     position: absolute;
+     top: 50%;
+     width: auto;
+     top:350px;
+     padding: 16px;
+     color:#ff9900;
+     font-weight: bold;
+     font-size: 20px;
+     border-radius: 0 3px 3px 0;
+     user-select: none;
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+     position: absolute;
+     right: 10px;
+     border-radius: 3px 0 0 3px;
+    }
+  
+   .prev {
+     position: absolute;
+     left: 10px;
+     border-radius: 3px 0 0 3px;
+     color:#ff9900;
+    }
+
+   /* On hover, add a black background color with a little bit see-through */
+   .prev:hover, .next:hover {
+     background-color: rgba(0,0,0,0.1);
+     color: white;
+    }
+	
+   .dot-container {
+     text-align: center;
+     padding: 20px;
+   }
+   
+   .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:#ff9900;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   }
+
+    .dot.active, .dot:hover {
+     background-color:#cc3300;
+    }
+
+    p {
+	 font-style: italic;
+	 font-size:25px;
+	 
+	}
+
+	.footer{
+		transform:translateY(-112px);
+	}
+	
+	.social-icons img{
+	 width:40px;
+	}
+
+	.footer_text{
+	 color:black;
+	 margin-left:50px;
+	 font-size:20px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	.social-icons{
+		margin-left:85px;
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+	}
+	
+  }	

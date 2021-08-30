@@ -1,0 +1,658 @@
+/*A. Media Query Starts For 1920Px width devices, for 1920 Px or lesser devices*/
+  @media(max-width:1920px){
+	  
+	  
+  }
+
+/*B. Media Query Starts For 1680Px width devices, for 1680 Px or lesser devices*/
+  @media(max-width:1680px){
+	
+	
+  }
+
+
+/*C. Media Query Starts For 1600Px width devices, for 1600 Px or lesser devices*/
+  @media(max-width:1600px){
+	
+  }
+  
+
+/*D. Media Query Starts For 1440Px width devices, for 1440 Px or lesser devices*/
+  @media(max-width:1440px){
+	
+  }
+  
+/*E. Media Query Starts For 1440Px width devices, for 1440 Px or lesser devices*/
+  @media(max-width:1366px){
+	
+  }
+  
+  
+/*F. Media Query Starts For 1200Px width devices, for 1200 Px or lesser devices*/
+  @media(max-width:1200px){
+	
+  }
+
+/*G. Media Query Starts For 1080Px width devices, for 1080 Px or lesser devices*/
+  @media(max-width:1080px){
+	
+	
+  }
+
+/*H. Media Query Starts For 1024Px width devices, for 1024 Px or lesser devices*/
+  @media(max-width:1024px){
+	
+  }
+  
+  
+/*I. Media Query Starts For 991Px width devices, for 991 Px or lesser devices*/
+  @media(max-width:991px){
+	 
+  }
+  
+  
+/*J. Media Query Starts For 800Px width devices, for 800 Px or lesser devices*/
+  @media(max-width:800px){
+	 
+  }
+	  
+/*K. Media Query Starts For 768Px width devices, for 768 Px or lesser devices*/
+  @media(max-width:768px){
+	
+  }
+  
+
+	
+/*L. Media Query Starts For 603Px width devices, for 603 Px or lesser devices*/
+  @media(max-width:603px){
+	
+  }
+  
+  
+
+/*M. Media Query Starts For 533Px width devices, for 533 Px or lesser devices*/
+  @media(max-width:533px){
+	 
+  }
+  
+	
+/*N. Media Query Starts For 480Px width devices, for 480 Px or lesser devices*/
+  @media(max-width:480px){
+	 
+  }
+  
+  
+/*O. Media Query Starts For 414 Px width devices, for 414 Px or lesser devices*/
+  @media(max-width:414px){
+	
+  }
+  
+	
+/*P. Media Query Starts For 384Px width devices, for 384 Px or lesser devices*/
+  @media(max-width:384px){
+	 
+  }
+
+  
+	
+/*Q. Media Query Starts For 375Px width devices, for 375 Px or lesser devices*/
+  @media(max-width:375px){
+	body{
+		overflow-x : hidden;
+	} 
+	
+	.div1{
+		height:700px;
+		background-color:white;
+		
+	}
+	
+	.wel{
+		color:#000000;
+		font-size:30px;
+		font-weight:bold;
+		transform:translate(80px,-10px);
+	}
+	
+	.login{
+     position:relative; 
+     z-index: 1; 
+     left: 0;
+     top: 0;
+     width:375px; 
+     height:500px;
+     overflow: hidden; 
+     background-image: linear-gradient(-90deg, rgb(51, 153, 51),	rgb(51, 204, 166));
+     padding-top: 60px;
+    }
+
+
+    .log-content {
+     width:100%; 
+     position:relative;
+    }
+   
+    .imgcontainer {
+     text-align: center;
+     position: relative;
+    }
+
+    img.avatar {
+     transform:translate(5px,10px);
+     width:30%;
+     border-radius: 50%;
+     position:relative;
+    }
+
+    .container input[type = "text"],  .container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:220px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(5px,10px);
+    }
+	
+    .container input[type = "text"]:focus,  .container input[type = "password"]:focus {
+     width:300px;
+	 border-color:#f5f5f0;
+    } 
+   
+    .container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(5px,10px);
+	}
+	
+	::placeholder{
+		color:#006600;
+		font-size:15px;
+	}
+    
+	/* sign */
+	.hello{
+	  color:#003399;
+	  font-size:30px;
+	  font-weight:bold;
+	  margin-left:60px;
+	  transform:translate(40px,-55px);
+	}
+	
+	.create{
+	  color:#003399;
+	  font-size:16px;
+	  font-weight:bold;
+	  margin-left:20px;
+	  transform:translate(15px,-65px);
+		
+	}
+	.sign_d{
+     position:relative; 
+     z-index: 1; 
+     width:375px; 
+     height:650px;
+     overflow: hidden; 
+     padding-top:60px;
+	 transform:translate(0px,20px);
+	 background-image: linear-gradient(-90deg,#b3ccff,#ffe6f2);
+    }
+
+    .sign-content {
+     width:100%; 
+     position:relative;
+    }
+	
+	.imgcon {
+     text-align: center;
+     position: relative;
+    }
+
+    img.as{
+     transform:translate(5px,-65px);
+     width:100%;
+	 height:auto;
+     border-radius:5%;
+     position:relative;
+    }
+	
+	img.s{
+     transform:translate(10px,-60px);
+     width:20%;
+     border-radius:50%;
+     position:relative;
+    }
+	
+	.sign_container input[type = "text"],  .sign_container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:220px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(10px,-40px);
+    }
+	
+    .sign_container input[type = "text"]:focus,  .sign_container input[type = "password"]:focus {
+     width:300px;
+	 border-color:#ff9900;
+    } 
+   
+    .sign_container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(10px,-40px);
+	}
+	
+  }
+  
+  
+/*R. Media Query Starts For 360Px width devices, for 360 Px or lesser devices*/
+  @media(max-width:360px){
+	body{
+		overflow-x : hidden;
+	} 
+	
+	.div1{
+		height:700px;
+		background-color:white;
+		width:360px;
+	}
+	
+	.wel{
+		color:#000000;
+		font-size:30px;
+		font-weight:bold;
+		transform:translate(90px,-10px);
+	}
+	
+	.login{
+     position:relative; 
+     z-index: 1; 
+     left: 0;
+     top: 0;
+     width:360px; 
+     height:500px;
+     overflow: hidden; 
+     background-image: linear-gradient(-90deg, rgb(51, 153, 51),	rgb(51, 204, 166));
+     padding-top: 60px;
+    }
+
+
+    .log-content {
+     width:100%; 
+     position:relative;
+    }
+   
+    .imgcontainer {
+     text-align: center;
+     position: relative;
+    }
+
+    img.avatar {
+     transform:translate(5px,10px);
+     width:30%;
+     border-radius: 50%;
+     position:relative;
+    }
+
+    .container input[type = "text"],  .container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:200px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(5px,10px);
+    }
+	
+    .container input[type = "text"]:focus,  .container input[type = "password"]:focus {
+     width:220px;
+	 border-color:#f5f5f0;
+    } 
+   
+    .container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(5px,10px);
+	}
+	
+	::placeholder{
+		color:#006600;
+		font-size:15px;
+	}
+    
+	/* sign */
+	.hello{
+	  color:#003399;
+	  font-size:30px;
+	  font-weight:bold;
+	  margin-left:60px;
+	  transform:translate(40px,-55px);
+	}
+	
+	.create{
+	  color:#003399;
+	  font-size:16px;
+	  font-weight:bold;
+	  margin-left:18px;
+	  transform:translate(10px,-65px);
+		
+	}
+	.sign_d{
+     position:relative; 
+     z-index: 1; 
+     width:360px; 
+     height:650px;
+     overflow: hidden; 
+     padding-top:60px;
+	 transform:translate(0px,20px);
+	 background-image: linear-gradient(-90deg,#b3ccff,#ffe6f2);
+    }
+
+    .sign-content {
+     width:100%; 
+     position:relative;
+    }
+	
+	.imgcon {
+     text-align: center;
+     position: relative;
+    }
+
+    img.as{
+     transform:translate(5px,-65px);
+     width:100%;
+	 height:auto;
+     border-radius:5%;
+     position:relative;
+    }
+	
+	img.s{
+     transform:translate(10px,-60px);
+     width:30%;
+     border-radius:50%;
+     position:relative;
+    }
+	
+	.sign_container input[type = "text"],  .sign_container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:200px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(10px,-40px);
+    }
+	
+    .sign_container input[type = "text"]:focus,  .sign_container input[type = "password"]:focus {
+     width:240px;
+	 border-color:#ff9900;
+    } 
+   
+    .sign_container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(10px,-40px);
+	}
+	
+  }
+
+  
+/*S. Media Query Starts For 320Px width devices, for 320 Px or lesser devices*/
+  @media(max-width:320px){
+	body{
+		overflow-x : hidden;
+	} 
+	
+	.div1{
+		height:700px;
+		background-color:white;
+	}
+	
+	.wel{
+		color:#000000;
+		font-size:30px;
+		font-weight:bold;
+		transform:translate(50px,-10px);
+	}
+	
+	.login{
+     position:relative; 
+     z-index: 1; 
+     left: 0;
+     top: 0;
+     width:320px; 
+     height:500px;
+     overflow: hidden; 
+     background-image: linear-gradient(-90deg, rgb(51, 153, 51),	rgb(51, 204, 166));
+     padding-top: 60px;
+    }
+
+
+    .log-content {
+     width:100%; 
+     position:relative;
+    }
+   
+    .imgcontainer {
+     text-align: center;
+     position: relative;
+    }
+
+    img.avatar {
+     transform:translate(-5px,10px);
+     width:30%;
+     border-radius: 50%;
+     position:relative;
+    }
+
+    .container input[type = "text"],  .container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:200px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(-5px,10px);
+    }
+	
+    .container input[type = "text"]:focus,  .container input[type = "password"]:focus {
+     width:220px;
+	 border-color:#f5f5f0;
+    } 
+   
+    .container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(-5px,10px);
+	}
+	
+	::placeholder{
+		color:#006600;
+		font-size:15px;
+	}
+    
+	/* sign */
+	.hello{
+	  color:#003399;
+	  font-size:30px;
+	  font-weight:bold;
+	  margin-left:60px;
+	  transform:translate(0px,-55px);
+	}
+	
+	.create{
+	  color:#003399;
+	  font-size:16px;
+	  font-weight:bold;
+	  margin-left:1px;
+	  transform:translate(0px,-65px);
+		
+	}
+	.sign_d{
+     position:relative; 
+     z-index: 1; 
+     width:320px; 
+     height:650px;
+     overflow: hidden; 
+     padding-top:60px;
+	 transform:translate(0px,20px);
+	 background-image: linear-gradient(-90deg,#b3ccff,#ffe6f2);
+    }
+
+    .sign-content {
+     width:100%; 
+     position:relative;
+    }
+	
+	.imgcon {
+     text-align: center;
+     position: relative;
+    }
+
+    img.as{
+     transform:translate(5px,-65px);
+     width:100%;
+	 height:auto;
+     border-radius:5%;
+     position:relative;
+    }
+	
+	img.s{
+     transform:translate(10px,-60px);
+     width:30%;
+     border-radius:50%;
+     position:relative;
+    }
+	
+	.sign_container input[type = "text"],  .sign_container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:200px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(0px,-40px);
+    }
+	
+    .sign_container input[type = "text"]:focus,  .sign_container input[type = "password"]:focus {
+     width:240px;
+	 border-color:#ff9900;
+    } 
+   
+    .sign_container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(0px,-40px);
+	}
+	
+  }

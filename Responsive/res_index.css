@@ -1,0 +1,1597 @@
+/*A. Media Query Starts For 1920Px width devices, for 1920 Px or lesser devices*/
+  @media(max-width:1920px){
+	body{
+		  overflow-x: hidden;
+	}
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	}
+	
+	.b1{
+		margin-left:24px;
+		transform:translate(170px,-35px);
+		width:380px;
+	}
+	.menu{
+		font-size:33px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:200px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:500px;
+	 font-size:36px;
+	 font-style:italic;
+	 padding-top:34px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:18px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:26px;
+      cursor: pointer;
+	  margin-left:650px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:100px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:530px;
+	 font-size:45px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:400px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:600px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+
+
+/*B. Media Query Starts For 1680Px width devices, for 1680 Px or lesser devices*/
+  @media(max-width:1680px){
+	body{
+		  overflow-x: hidden;
+	}
+     .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		margin-left:14px;
+		transform:translate(94px,-35px);
+		width:380px;
+	}
+	.menu{
+		font-size:33px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:200px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:460px;
+	 font-size:36px;
+	 font-style:italic;
+	 padding-top:34px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:18px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:26px;
+      cursor: pointer;
+	  margin-left:620px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:90px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:570px;
+	 font-size:40px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:600px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+
+
+/*C. Media Query Starts For 1600Px width devices, for 1600 Px or lesser devices*/
+  @media(max-width:1600px){
+	body{
+		  overflow-x: hidden;
+	}
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		margin-left:14px;
+		transform:translate(87px,-35px);
+		width:380px;
+	}
+	.menu{
+		font-size:33px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:200px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:450px;
+	 font-size:36px;
+	 font-style:italic;
+	 padding-top:34px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:18px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:26px;
+      cursor: pointer;
+	  margin-left:610px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:90px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:560px;
+	 font-size:40px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:590px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+
+
+/*D. Media Query Starts For 1440Px width devices, for 1440 Px or lesser devices*/
+  @media(max-width:1440px){
+	body{
+		  overflow-x: hidden;
+	}
+     .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		margin-left:14px;
+		transform:translate(57px,-35px);
+		width:370px;
+	}
+	.menu{
+		font-size:30px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:180px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:420px;
+	 font-size:34px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:24px;
+      cursor: pointer;
+	  margin-left:590px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:80px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:510px;
+	 font-size:38px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:560px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+
+
+/*E. Media Query Starts For 1440Px width devices, for 1440 Px or lesser devices*/
+  @media(max-width:1366px){
+	body{
+		  overflow-x: hidden;
+	}
+   
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	}
+	
+	.b1{
+		margin-left:20px;
+		transform:translate(37px,-35px);
+		width:370px;
+	}
+	.menu{
+		font-size:30px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:180px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:400px;
+	 font-size:34px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:24px;
+      cursor: pointer;
+	  margin-left:570px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:80px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:500px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:400px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:550px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(20px);
+    }
+  }
+  
+  /*F. Media Query Starts For 1200Px width devices, for 1200 Px or lesser devices*/
+  @media(max-width:1200px){
+	body{
+		  overflow-x: hidden;
+	  }  
+	  
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		margin-left:14px;
+		transform:translate(-5px,-35px);
+		width:350px;
+	}
+	.menu{
+		font-size:30px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:180px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:380px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:22px;
+      cursor: pointer;
+	  margin-left:517px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:70px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:460px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:510px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+    
+    
+/*G. Media Query Starts For 1080Px width devices, for 1080 Px or lesser devices*/
+  @media(max-width:1080px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+	  
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		margin-left:18px;
+		transform:translate(5px,-35px);
+		width:300px;
+	}
+	.menu{
+		font-size:27px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:180px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:320px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:22px;
+      cursor: pointer;
+	  margin-left:460px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:70px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:400px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:460px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+  
+  
+/*H. Media Query Starts For 1024Px width devices, for 1024 Px or lesser devices*/
+  @media(max-width:1024px){
+	body{
+		  overflow-x: hidden;
+	  }  
+	  
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		margin-left:10px;
+		transform:translate(-10px,-35px);
+		width:300px;
+	}
+	.menu{
+		font-size:30px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:180px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:250px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:22px;
+      cursor: pointer;
+	  margin-left:407px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:70px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:360px;
+	 font-size:35px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:410px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+  
+  
+/*I. Media Query Starts For 991Px width devices, for 991 Px or lesser devices*/
+  @media(max-width:991px){
+	 body{
+		  overflow-x: hidden;
+	  }
+	  
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		margin-left:5px;
+		transform:translate(-18px,-35px);
+		width:300px;
+	}
+	.menu{
+		font-size:30px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:170px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:300px;
+	 font-size:26px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:20px;
+      cursor: pointer;
+	  margin-left:420px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:60px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:400px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:440px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+
+
+/*J. Media Query Starts For 800Px width devices, for 800 Px or lesser devices*/
+  @media(max-width:800px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+	  
+	  .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	}
+	
+	.b1{
+		transform:translate(25px,-25px);
+		margin-left:45px;
+		width:550px;
+	}
+	
+	.menu{
+		font-size:38px;
+	}
+	
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:190px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:130px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:25px;
+      cursor: pointer;
+	  margin-left:240px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:80px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:230px;
+	 font-size:32px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:260px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+    }
+  }
+
+
+/*K. Media Query Starts For 768Px width devices, for 768 Px or lesser devices*/
+  @media(max-width:768px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+	  
+	  .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	}
+	
+	.b1{
+		transform:translate(15px,-25px);
+		margin-left:45px;
+		width:550px;
+	}
+	
+	.menu{
+		font-size:38px;
+	}
+	
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:180px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:120px;
+	 font-size:30px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:25px;
+      cursor: pointer;
+	  margin-left:230px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:80px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:210px;
+	 font-size:32px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(0px,-10px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:240px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-10px);
+    }
+  }
+
+/*L. Media Query Starts For 603Px width devices, for 603 Px or lesser devices*/
+  @media(max-width:630px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(10px,-25px);
+		width:400px;
+	}
+	.menu{
+		font-size:32px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:170px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:95px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:17px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:20px;
+      cursor: pointer;
+	  margin-left:190px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:65px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:170px;
+	 font-size:25px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:180px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  } 
+
+
+/*M. Media Query Starts For 533Px width devices, for 533 Px or lesser devices*/
+  @media(max-width:533px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(-20px,-35px);
+		width:390px;
+	}
+	.menu{
+		font-size:30px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:170px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:65px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:17px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:20px;
+      cursor: pointer;
+	  margin-left:150px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:60px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:140px;
+	 font-size:25px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:160px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  } 
+
+
+  
+/*N. Media Query Starts For 480Px width devices, for 480 Px or lesser devices*/
+  @media(max-width:480px){
+	 body{
+		  overflow-x: hidden;
+	  }
+	  
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(-28px,-45px);
+		width:350px;
+	}
+	.menu{
+		font-size:32px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:170px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:24px;
+	 font-size:23px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:17px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:20px;
+      cursor: pointer;
+	  margin-left:110px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:50px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:135px;
+	 font-size:23px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:160px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+ 
+/*O. Media Query Starts For 414 Px width devices, for 414 Px or lesser devices*/
+  @media(max-width:414px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(-32px,-45px);
+		width:290px;
+	}
+	.menu{
+		font-size:28px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:140px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:45px;
+	 font-size:17px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:15px;
+      cursor: pointer;
+	  margin-left:115px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:40px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:100px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:135px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  } 
+ 
+ 
+/*P. Media Query Starts For 384Px width devices, for 384 Px or lesser devices*/
+  @media(max-width:384px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(-34px,-45px);
+		width:270px;
+	}
+	.menu{
+		font-size:26px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:140px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:35px;
+	 font-size:17px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:15px;
+      cursor: pointer;
+	  margin-left:105px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:40px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:80px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:115px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  } 
+   
+   
+/*Q. Media Query Starts For 375Px width devices, for 375 Px or lesser devices*/
+  @media(max-width:375px){
+	 body{
+		  overflow-x: hidden;
+	  } 
+
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(-34px,-45px);
+		width:260px;
+	}
+	.menu{
+		font-size:24px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:140px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:40px;
+	 font-size:16px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:15px;
+      cursor: pointer;
+	  margin-left:105px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:40px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:70px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:110px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+/*R. Media Query Starts For 360Px width devices, for 360 Px or lesser devices*/
+  @media(max-width:360px){
+	body{
+		overflow-x : hidden;
+	}
+
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(-44px,-45px);
+		width:260px;
+	}
+	
+	.menu{
+		font-size:25px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:140px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:30px;
+	 font-size:16px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:15px;
+      cursor: pointer;
+	  margin-left:90px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:40px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:75px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:110px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }
+
+  
+  
+/*S. Media Query Starts For 320Px width devices, for 320 Px or lesser devices*/
+  @media(max-width:320px){
+	body{
+		overflow-x : hidden;
+	}
+
+    .logo{
+		  width:5%;
+		  height:auto;
+		  margin-top:3px;
+	  }
+	.b1{
+		
+		transform:translate(-56px,-45px);
+		width:250px;
+	}
+	
+	.menu{
+		font-size:24px;
+	}
+	.d4{
+	 width:auto;
+	 background-color:#f5f5f0;
+	 height:140px;
+	}
+	
+	.h2{
+	 color:#004d1a;
+	 margin-left:12px;
+	 font-size:16px;
+	 font-style:italic;
+	 padding-top:32px;
+	
+	}
+	
+	.lower{
+	  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding:15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size:15px;
+      cursor: pointer;
+	  margin-left:70px;
+	  border-radius:5px;
+		
+	}
+	.footer{
+		transform:translateY(-112px);
+	}
+	.social-icons img{
+	 width:40px;
+	}
+
+	
+	.footer_text{
+	 color:black;
+	 margin-left:50px;
+	 font-size:22px;
+	 font-style:italic;
+	 padding-top:32px;
+	 transform:translate(-10px,-20px);
+	}
+	
+	
+	.footer_image{
+		width:100%;
+		height:230px;
+		position:absolute;
+		transform:translateY(-120px);
+	}
+	
+	
+	.social-icons{
+		margin-left:90px;
+		/*display:inline;*/
+		margin-bottom:50px;
+		z-index:1;
+		transform:translateY(-20px);
+    }
+  }

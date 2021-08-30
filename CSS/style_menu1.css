@@ -1,0 +1,145 @@
+   *{
+	 box-sizing:border-box;
+	}
+	
+	body{
+	margin : 0px;
+    padding : 0px;
+	}
+    .navbar{
+		height:98px;
+		z-index:1;
+	}
+    .bc1{
+		transform:translate(5px,0px);
+	}
+	.nav-item{
+	 margin-left:25px;
+	 
+	 
+	}
+    .nav-link{
+	 font-size:20px;
+	 font-style:italic;
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	 
+	}
+	
+	.divinfo{
+	 margin-bottom:20px;
+     padding: 14px 28px;
+	 width:1210px;
+	 font-size:20px;
+	 font-style:italic;
+	 margin-left:65px;
+	}
+	
+	.info {
+     background-color:#e0ebeb;
+     border-left: 6px solid #990000;
+	 border-right: 6px solid #990000;
+	 height:240px;
+	 padding:18px 10px;
+    }
+	.p2{
+	 color:black;
+	 margin-left:25px;
+	}
+	
+	#stylehr{
+     display:inline;
+    }
+  
+    
+  
+	#box1{
+     margin-left:120px;
+     width:80px;
+     height:42px;
+     background-color:#006600;
+     color:white;
+     text-align:center;
+     padding-top:10px;
+	 font-size:22px;
+	 font-style:italic;
+   
+    }
+	
+	hr.hr3{
+	 margin-top:0px;
+     border:3px solid #006600;
+     margin-left:120px;
+     width:1050px;
+    }
+	
+	.b1{
+     margin-left:150px;
+     width:360px;
+     height:80px;
+     background-color:white;
+     color:#9900cc;
+     text-align:center;
+     margin-top:20px;
+     display:inline-block;
+     border:1px solid #006600;
+    }
+	
+	a{
+     text-decoration: none;
+     list-style-type: none;
+	}
+	
+	.aud{
+	 margin-top:11px;
+	}
+	
+	.footer{
+		transform:translateY(-20px);
+	}
+	
+	.social-icons{
+	 /*width:80px;*/
+	 /*transition:0.5s;*/
+	 margin-left:530px;
+	 z-index:1;
+	 position:relative;
+	 top:70px;
+	 
+	 
+	}
+	
+	.social-icons a:hover img{
+	 transform:translateY(-10px);
+	}
+	
+	
+	/*Newly Added CSS */
+	.footer_image{
+		width:100%;
+		height:400px;
+		transform:translateY(-75px);
+		position:absolute;
+		
+	}
+	
+	.footer_text{
+	 margin-left:470px;
+	 top:150px;
+	 font-size:36px;
+	 font-weight:600;
+	 margin-bottom:90px;
+	 color:black;
+	 font-style:italic;
+	 margin-top:50px;
+	 position:relative;
+	 z-index:1;
+	}
+	
+	.footer_icon_image{
+		width:80px;
+	}
+	
+	
+	
+	
+	

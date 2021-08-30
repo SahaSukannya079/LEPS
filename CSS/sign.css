@@ -1,0 +1,187 @@
+   *{
+	 box-sizing:border-box;
+	}
+	
+	body{
+	margin : 0px;
+    padding : 0px;
+	}
+	
+	.div1{
+		height:700px;
+		background-color:white;
+	}
+	
+	.wel{
+		color:#000000;
+		font-size:30px;
+		font-weight:bold;
+		transform:translate(150px,-10px);
+	}
+	
+	.login{
+     position:relative; 
+     z-index: 1; 
+     left: 0;
+     top: 0;
+     width:550px; 
+     height:700px;
+     overflow: hidden; 
+     background-image: linear-gradient(-90deg, rgb(51, 153, 51),	rgb(51, 204, 166));
+     padding-top: 60px;
+    }
+
+
+    .log-content {
+     width:100%; 
+     position:relative;
+    }
+   
+    .imgcontainer {
+     text-align: center;
+     position: relative;
+    }
+
+    img.avatar {
+     transform:translate(-20px,10px);
+     width:20%;
+     border-radius: 50%;
+     position:relative;
+    }
+
+    .container input[type = "text"],  .container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:300px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(-20px,10px);
+    }
+	
+    .container input[type = "text"]:focus,  .container input[type = "password"]:focus {
+     width:380px;
+	 border-color:#f5f5f0;
+    } 
+   
+    .container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(-20px,10px);
+	}
+	
+	::placeholder{
+		color:#006600;
+		font-size:15px;
+	}
+    
+	/* sign */
+	.hello{
+	  color:#006600;
+	  font-size:30px;
+	  font-weight:bold;
+	  margin-left:300px;
+	  transform:translate(0px,-55px);
+	}
+	
+	.create{
+	  color:#006600;
+	  font-size:25px;
+	  font-weight:bold;
+	  margin-left:160px;
+	  transform:translate(0px,-65px);
+		
+	}
+	.sign_d{
+     position:relative; 
+     z-index: 1; 
+     width:749px; 
+     height:700px;
+     overflow: hidden; 
+     padding-top: 60px;
+	 transform:translate(600px,-700px);
+    }
+
+    .sign-content {
+     width:100%; 
+     position:relative;
+    }
+	
+	.imgcon {
+     text-align: center;
+     position: relative;
+    }
+
+    img.as{
+     transform:translate(30px,-65px);
+     width:100%;
+	 height:auto;
+     border-radius:5%;
+     position:relative;
+    }
+	
+	img.s{
+     transform:translate(30px,-60px);
+     width:10%;
+     border-radius:50%;
+     position:relative;
+    }
+	
+	.sign_container input[type = "text"],  .sign_container input[type = "password"] {
+     border:0;
+	 background:none;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #003366;
+	 padding:14px 10px;
+	 width:420px;
+	 outline:none;
+	 color:black;
+	 border-radius:24px;
+	 transition:0.25s;
+	 transform:translate(20px,-40px);
+    }
+	
+    .sign_container input[type = "text"]:focus,  .sign_container input[type = "password"]:focus {
+     width:580px;
+	 
+    } 
+   
+    .sign_container input[type = "submit"] {
+	 border:0;
+	 background-color:#006600;
+	 display:block;
+	 margin:20px auto;
+	 text-align:center;
+	 border:2px solid #004d00;
+	 padding:14px 40px;
+	 outline:none;
+	 color:white;
+	 border-radius:24px;
+	 transition:0.25s;
+	 cursor:pointer;
+	 font-size:14px;
+	 position:relative;
+	 transform:translate(20px,-40px);
+	}
+	
+	
